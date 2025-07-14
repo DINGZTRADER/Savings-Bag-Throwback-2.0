@@ -1,7 +1,5 @@
-# Savings-Bag-Throwback-2.0
+# 💰 Savings Bag Throwback 2.0
 Fund raising tracker
-# 💰 Savings Bag Throwback
-
 A simple, elegant React-based contribution tracking app built for WhatsApp groups and community fundraisers. Perfect for monthly contributions like funeral, wedding, or welfare groups.
 
 ## 🌟 Features
